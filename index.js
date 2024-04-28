@@ -19,7 +19,7 @@ let image ="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.
 console.log(fullName)
 console.log(yearOfBirth)
 console.log(hobby)
-console.log(funFact)
+console.log(funFact)``
 
 
 
