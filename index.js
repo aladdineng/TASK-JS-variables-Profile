@@ -11,8 +11,15 @@
 
 // Part 1 answer 👇🏻 ...
 
-
-
+let fullName = "Aladdin Nael Enbeh"
+let yearOfBirth = "1995-08-03"
+let hobby = "Coding"
+let funFact = ' XD '
+let image ="https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg"
+console.log(fullName)
+console.log(yearOfBirth)
+console.log(hobby)
+console.log(funFact)
 
 
 
